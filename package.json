@@ -1,0 +1,23 @@
+{
+  "name": "cesusc-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davifernandes1/cesusc-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davifernandes1/cesusc-devops/issues"
+  },
+  "homepage": "https://github.com/davifernandes1/cesusc-devops#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
