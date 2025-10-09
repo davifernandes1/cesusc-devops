@@ -24,3 +24,6 @@ jobs:
 
       - name: Run tests
         run: npm test # Executa os testes
+
+      - name: Run ESLint
+        run: npm run lint
