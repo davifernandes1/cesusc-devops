@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-     "test": "jest --coverage",
-     "lint": "eslint src/*.js"
-     
+    "test": "jest --coverage",
+    "lint": "eslint src/*.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +20,10 @@
   "homepage": "https://github.com/davifernandes1/cesusc-devops#readme",
   "dependencies": {
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.37.0",
+    "eslint": "^9.37.0",
+    "globals": "^16.4.0"
   }
 }
